@@ -18,7 +18,7 @@ El proyecto de detección de vehículos utilizando OpenCV tiene como objetivo pr
 
 ## Tecnología utilizada
 - **OpenCV:** Biblioteca de visión por computadora utilizada para la detección, seguimiento y análisis de objetos en tiempo real, en este caso, vehículos.
-- **Python:** Lenguaje de programación principal para el desarrollo del sistema, conocido por su simplicidad y potencia en aplicaciones de visión artificial.
+- **Python:** Lenguaje de programación principal para el desarrollo del sistema
 
 ---
 
