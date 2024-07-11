@@ -1,65 +1,29 @@
-# Error404-
-En este espacio se sube el código creado para el grupo 
+# Detección de vehículos utilizando OpenCV
+## Proyecto: Campus de Innovación Samsung
+### Desarrollador: BUG 404
 
-Se debe agregar toda la documentación que ustedes consideren pertinente para la compresión de los modelos usados, la ejecución del código y los resultados obtenidos. 
-Puden, si desean, agregar imágenes o resultados obtenidos. 
+---
 
-Recuerden que este readme es su puerta de entrada para su proyecto. 
+## Objetivo del proyecto
+El proyecto de detección de vehículos utilizando OpenCV tiene como objetivo principal proporcionar herramientas avanzadas para el análisis del tráfico vehicular en entornos urbanos. Esta solución no solo facilita la recopilación de datos precisos sobre los patrones de tráfico, sino que también ayuda a los comercios locales a optimizar sus estrategias de marketing basadas en información detallada y en tiempo real.
 
-Un ejemplo puede ser: 
-# Nombre del Proyecto
+---
 
-Breve descripción del proyecto.
+## Funcionalidades destacadas a aplicar en el entorno de negocio
+- **Análisis de Tráfico:** El sistema permite analizar y registrar datos relevantes sobre el flujo de vehículos, incluyendo conteo, velocidad promedio y dirección del movimiento.
 
-## Tabla de contenidos
+- **Publicidad Digital:** Integración con pantallas digitales para mostrar anuncios personalizados según el tipo de vehículo detectado y otros parámetros relevantes. Esto mejora la efectividad de las campañas publicitarias al adaptar los mensajes según las características del tráfico en tiempo real.
 
-1. [Nombre](#Nombre)
-2. [Descripción](#descripción)
-3. [Arquitectura](#Arquitectura)
-4. [Proceso](#Proceso)
-5. [Funcionalidades](#Funcionalidades)
-6. [Estado del proyecto](#EstadoDelProyecto)
-7. [Agradecimientos](#Agradecimientos)
+---
 
+## Tecnología utilizada
+- **OpenCV:** Biblioteca de visión por computadora utilizada para la detección, seguimiento y análisis de objetos en tiempo real, en este caso, vehículos.
+- **Python:** Lenguaje de programación principal para el desarrollo del sistema, conocido por su simplicidad y potencia en aplicaciones de visión artificial.
 
-* Nombre del proyecto
+---
 
-* Breve descripción del proyecto -> Alguna imagen o gif que muestre el proyecto
+## Instalación del sistema
+Para utilizar el sistema de detección de vehículos, es necesario instalar previamente OpenCV en su entorno de desarrollo. A continuación, se proporciona un ejemplo básico de cómo instalar OpenCV usando pip:
 
-* Arquitectura del proyecto + imagen
-
-* Proceso de desarrollo:
-
--Fuente del dataset
--Limpieza de datos (img que lo valide)
--Manejo excepciones/control errores
--¿Qué modelo de Machine Learning están usando?
--Estadísticos (Valores, gráficos, …)
--Métrica(s) de evaluación del modelo
-
-* Funcionalidades extra:
-
-Ejem 1: Implementación de chatbot
-- Tecnología/Herramientas usadas (Librería, Framework, …)
-- Arquitectura (img)
-- Indicar fuente del dataset
-- Limpieza de datos (ejem: se usó PLN + img que lo validen)
-- Manejo excepciones/control errores
-- En caso de usar un modelo de ML indicar ¿Qué modelo de Machine Learning están usando?
-- Estadísticos (Valores, gráficos, …)
-- Métrica(s) de evaluación del modelo
-
-Ejem 2: Integración del proyecto en una pág web
-- Tecnología/Herramientas usadas …
-- Arquitectura (img)
-
-Ejem 3: Integración del proyecto en un canal WhatsApp, Discord, Telegram, Correo, …
-- Tecnología/Herramientas usadas …
-- Arquitectura (img)
-
-Ejem 4: Desarrollo de interfaz gráfica de usuario
-- Tecnología/Herramientas usadas …
-- Arquitectura (img)
-
-Ejem …: …
-- Tecnología/Herramientas usadas …
+```bash
+pip install opencv-python
