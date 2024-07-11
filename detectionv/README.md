@@ -9,7 +9,7 @@ El proyecto de detección de vehículos utilizando OpenCV tiene como objetivo pr
 
 ---
 
-## Funcionalidades destacadas
+## Funcionalidades destacadas a aplicar en el entorno de negocio
 - **Análisis de Tráfico:** El sistema permite analizar y registrar datos relevantes sobre el flujo de vehículos, incluyendo conteo, velocidad promedio y dirección del movimiento.
 
 - **Publicidad Digital:** Integración con pantallas digitales para mostrar anuncios personalizados según el tipo de vehículo detectado y otros parámetros relevantes. Esto mejora la efectividad de las campañas publicitarias al adaptar los mensajes según las características del tráfico en tiempo real.
