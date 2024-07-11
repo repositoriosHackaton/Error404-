@@ -1,6 +1,6 @@
 # Detección de vehículos utilizando OpenCV
 ## Proyecto: Campus de Innovación Samsung
-### Desarrollador: Hidekel Araujo Pinales
+### Desarrollador: BUG 404
 
 ---
 
